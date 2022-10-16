@@ -14,7 +14,7 @@ const KittyLit = () => {
   return (
     <div>
       {lit} <br />
-      <button onClick={() => another()}>See more</button>
+      <button onClick={() => another()}>See another fact</button>
     </div>
   )
 }
