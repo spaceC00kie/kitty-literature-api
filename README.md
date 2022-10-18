@@ -1,4 +1,4 @@
-# kitty-literature-api
+# Kitty Literature Api
 
 This React app fetches an api that provides a fact about cats. A new fact is shown each time you press the button that says "See another fact".
 
