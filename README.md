@@ -1,6 +1,8 @@
 # Kitty Literature Api
 
-This React app fetches an api that provides a fact about cats. A new fact is shown each time you press the button that says "See another fact".
+A minimal React app used to fetch a fact from an api and display it on a webpage. A new fact loads when the button is clicked.
 
-Pretty simple. Just fetching an api and everyone on the internet loves cats, right?
+<img src="public/CatFact.PNG" width="50%">
+
+Pretty simple. Just fetching an api and everyone on the internet loves cats, right? I just made this to practice my React skills.
 
