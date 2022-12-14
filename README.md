@@ -1,5 +1,7 @@
 # Kitty Literature Api
 
+[![License](https://img.shields.io/github/license/spaceC00kie/kitty-literature-api)](#)
+
 Kitty Literature is a minimal React app that displays a cat fact on a webpage. When the button is clicked, a new fact is fetched from the API and displayed. This app was created to practice React skills and to showcase the power of APIs.
 
 <img src="public/CatFact.PNG" width="50%">
@@ -34,6 +36,4 @@ npm start
 
 5. Visit http://localhost:3000 in your web browser to view the app.
 
-### License
-Kitty Literature is released under the MIT License.
 
