@@ -5,9 +5,9 @@ Kitty Literature is a minimal React app that displays a cat fact on a webpage. W
 <img src="public/CatFact.PNG" width="50%">
 
 ### Features
--Fetch a cat fact from the Cat Facts API
--Display the fact on the webpage
--Load a new fact when the button is clicked
+- Fetch a cat fact from the API
+- Display the fact on the webpage
+- Load a new fact when the button is clicked
 
 ### Usage
 To use Kitty Literature, follow these steps:
